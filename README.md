@@ -19,4 +19,5 @@ Este repositório contém [Estudos e pequenos desenvolvimentos que fiz e estou f
 
 ## Tecnologias Utilizadas
 - **Visual Studio Code**
+- **Node JS**
 
